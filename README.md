@@ -12,3 +12,5 @@ Model:
  7. Fully connected layer with 128 neurons and rectifier activation.  
  8. Fully connected layer with 50 neurons and rectifier activation.  
  9. Output layer.  
+
+Accuracy:99.32% (W.R.T. MNIST dataset)  
