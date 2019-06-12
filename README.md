@@ -2,7 +2,7 @@
 This is a CNN used to classify handwritten digits. This method shows a higher accuracy.   
 Dataset: MNIST dataset from google
 Keras,tensorflow is used.  
-Model:  
+Model:
  1. Convolutional layer with 30 feature maps of size 5×5.  
  2. Pooling layer taking the max over 2*2 patches.  
  3. Convolutional layer with 15 feature maps of size 3×3.  
